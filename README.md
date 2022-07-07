@@ -35,7 +35,10 @@ Hi, I'm Deepanshu yadav, a Full Stack Developer 🚀 from India, currently, I'm 
 - 💬 Ask me about anything, I am happy to help;
 - 💬 I am new in github;
 - 📫 How to reach me: deepanshuyadav374@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1VJEKN2U9hNuDfWGxCkACQ61qfaVYeeD3/view?usp=sharing)
+<!---
+- 📝[Resume]
+(https://drive.google.com/file/d/1VJEKN2U9hNuDfWGxCkACQ61qfaVYeeD3/view?usp=sharing)
+-->
 
 **Languages and Tools:**  
 
