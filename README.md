@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm Deepanshu yadav, a Software Devloper and Web Devloper (Fresher) 🚀 from India, currently, I'm pursuing my B.Tech (last year), I'm a love to do coding, I am doing coding mostly in c++ but i also know C, Java, Python. Beside's programming, I enjoy eating food and playing games.
+Hi, I'm Deepanshu yadav, a Full Stack Developer 🚀 from India, currently, I'm have completed my B.Tech , I love to do coding, I am doing coding mostly in c++ but i also know C, Java, Python. Beside's programming, I enjoy eating food and playing games.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
