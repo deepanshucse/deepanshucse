@@ -59,11 +59,11 @@ Hi, I'm Deepanshu yadav, a Full Stack Developer 🚀 from India, currently, I'm 
 
 
 <a href="https://github.com/deepanshucse/tictoc">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepanshucse&repo=tictoc" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepanshucse&repo=Village_Council_Service" />
 </a>
 
 <a href="https://github.com/deepanshucse/resume">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepanshucse&repo=resume" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deepanshucse&repo=Sorting_Visualizer" />
 </a>
 
 
